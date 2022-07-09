@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shadowpath-test/static/css/main.dc6a9ab1.css",
+    "main.js": "/shadowpath-test/static/js/main.25dcd6bf.js",
+    "static/js/787.571814b4.chunk.js": "/shadowpath-test/static/js/787.571814b4.chunk.js",
+    "index.html": "/shadowpath-test/index.html",
+    "main.dc6a9ab1.css.map": "/shadowpath-test/static/css/main.dc6a9ab1.css.map",
+    "main.25dcd6bf.js.map": "/shadowpath-test/static/js/main.25dcd6bf.js.map",
+    "787.571814b4.chunk.js.map": "/shadowpath-test/static/js/787.571814b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6a9ab1.css",
+    "static/js/main.25dcd6bf.js"
+  ]
+}
